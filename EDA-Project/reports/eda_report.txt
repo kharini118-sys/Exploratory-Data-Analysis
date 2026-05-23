@@ -1,0 +1,12 @@
+
+EDA PROJECT INSIGHTS REPORT
+===========================
+
+1. Age distribution shows most customers are young adults.
+2. Higher annual income often correlates with higher spending score.
+3. Spending behavior varies by gender and region.
+4. North and South regions have more customer activity.
+5. Correlation heatmap identifies important influencing features.
+
+Conclusion:
+EDA helps uncover hidden trends and business patterns for better decision making.
